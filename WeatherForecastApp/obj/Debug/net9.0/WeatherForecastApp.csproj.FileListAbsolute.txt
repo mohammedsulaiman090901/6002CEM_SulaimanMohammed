@@ -1,0 +1,17 @@
+/Users/dievanchort/WeatherForecastApp/bin/Debug/net9.0/WeatherForecastApp
+/Users/dievanchort/WeatherForecastApp/bin/Debug/net9.0/WeatherForecastApp.deps.json
+/Users/dievanchort/WeatherForecastApp/bin/Debug/net9.0/WeatherForecastApp.runtimeconfig.json
+/Users/dievanchort/WeatherForecastApp/bin/Debug/net9.0/WeatherForecastApp.dll
+/Users/dievanchort/WeatherForecastApp/bin/Debug/net9.0/WeatherForecastApp.pdb
+/Users/dievanchort/WeatherForecastApp/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/dievanchort/WeatherForecastApp/obj/Debug/net9.0/WeatherForecastApp.csproj.AssemblyReference.cache
+/Users/dievanchort/WeatherForecastApp/obj/Debug/net9.0/WeatherForecastApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dievanchort/WeatherForecastApp/obj/Debug/net9.0/WeatherForecastApp.AssemblyInfoInputs.cache
+/Users/dievanchort/WeatherForecastApp/obj/Debug/net9.0/WeatherForecastApp.AssemblyInfo.cs
+/Users/dievanchort/WeatherForecastApp/obj/Debug/net9.0/WeatherForecastApp.csproj.CoreCompileInputs.cache
+/Users/dievanchort/WeatherForecastApp/obj/Debug/net9.0/WeatherF.64F08301.Up2Date
+/Users/dievanchort/WeatherForecastApp/obj/Debug/net9.0/WeatherForecastApp.dll
+/Users/dievanchort/WeatherForecastApp/obj/Debug/net9.0/refint/WeatherForecastApp.dll
+/Users/dievanchort/WeatherForecastApp/obj/Debug/net9.0/WeatherForecastApp.pdb
+/Users/dievanchort/WeatherForecastApp/obj/Debug/net9.0/WeatherForecastApp.genruntimeconfig.cache
+/Users/dievanchort/WeatherForecastApp/obj/Debug/net9.0/ref/WeatherForecastApp.dll
